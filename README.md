@@ -4,7 +4,7 @@ Una pequeña aplicación hecha en React con Hooks y Firebase para guardar y most
 
 # URL
 
-https://danielortegacareaga25.github.io/giphy-app/
+https://danielortegacareaga25.github.io/react-firegram/
 
 ![Captura de pantalla](/images/screenshot.PNG)
 
